@@ -1,5 +1,5 @@
 # Technologie-Sieciowe
-Rozwiązania zadań z kursu *Technologie sieciowe* na kierunku Informatyka na WPPT, PWr.
+Rozwiązania zadań z kursu *Technologie Sieciowe* na kierunku Informatyka na WPPT, PWr.
 
 ## Zadanie 1 ✔
 Testowanie programów:
