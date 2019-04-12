@@ -8,6 +8,11 @@ Testowanie programów:
 - Traceroute
 
 ## Zadanie 2 ✔
-Modele sieci
+Modele sieci:
 - Badanie niezawodności motodą Monte Carlo
 - Wpływ topologi sieci na jej niezawodność
+
+## Zadanie 3 🚧
+Ramkowanie:
+- Bit Stuffing, CRC
+- Symulacja CSMA/CD
