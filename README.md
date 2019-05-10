@@ -12,7 +12,10 @@ Modele sieci:
 - Badanie niezawodności motodą Monte Carlo
 - Wpływ topologi sieci na jej niezawodność
 
-## Zadanie 3 🚧
+## Zadanie 3 ✔
 Ramkowanie:
 - Bit Stuffing, CRC
 - Symulacja CSMA/CD
+
+## Zadanie 4 🚧
+TCP/IP
