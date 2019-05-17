@@ -16,8 +16,8 @@ def encode_file(input, output):
         open(output, 'w').write(prot.encode_frame(file.read()))
 
 def main():
-    random_file("z.txt")
-    encode_file("z.txt", "w.txt")
+    random_file("input.txt")
+    encode_file("input.txt", "encoded.txt")
 
 if __name__ == "__main__":
     main()

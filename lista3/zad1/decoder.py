@@ -5,7 +5,7 @@ def decode_file(input_name, output_name):
         open(output_name, 'w').write(prot.decode_frame(input.read()))
 
 def main():
-    decode_file("w.txt", "z2.txt")
+    decode_file("encoded.txt", "decoded.txt")
 
 
 if __name__ == "__main__":
